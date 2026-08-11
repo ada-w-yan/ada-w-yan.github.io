@@ -115,30 +115,27 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/ada_yan_profile2.jpg"
   bio              : "Using mathematical models to better understand infection and immunity."
-  location         : "RMIT University, Melbourne, Australia"
+  location         : "RMIT University, Australia"
   email            : "ada.yan@rmit.edu.au"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:ada.yan@rmit.edu.au"
+      # url: "mailto:ada.yan@rmit.edu.au"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.rmit.edu.au/profiles/y/ada-yan"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
+      url: "https://www.rmit.edu.au/profiles/y/ada-yan"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ada-w-yan"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-link"
+      url: "https://scholar.google.com/citations?user=C7Gjb40AAAAJ&hl=en"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ada-w-yan/"
 
 # Site Footer
 footer:
